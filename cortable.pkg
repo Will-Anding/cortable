@@ -1,0 +1,12 @@
+v 3
+d cortable: Custom correlation table exported to RTF (Word)
+d
+d Computes pairwise correlations and exports a lower-triangle
+d correlation table to a Word-compatible RTF file. Significant
+d coefficients are bolded at a user-specified threshold.
+d Variables are numbered with a legend below the table.
+d
+d Author: Custom package
+d Distribution-Date: 2026
+f cortable.ado
+f cortable.sthlp
